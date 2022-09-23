@@ -1,0 +1,180 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+    text-align: center;
+    width: auto;
+    size: 1em;
+}
+
+#navbar{
+    background-size:auto;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+p {
+    font-size: 25px;
+    text-align: left; 
+}
+
+h1 {
+    font-size: 80px;
+    font-family: lato;
+}
+
+h3 {
+    font-family: lato;
+    font-size: 20px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+#navbar a{
+    color: white;
+    padding-left: 20px;
+}
+
+#navbar {
+    width: auto;
+    height: 56px;
+}
+
+.puzzle {
+    height: 30px;
+    padding-bottom: 7px;
+}
+
+.box {
+    height: 350px;
+    background-image: url(assets/imgs/header.jpeg);
+    margin: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+.button1 {
+    background-color: #027bff;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+.button1:hover {
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+.button11 {
+    background-color: #28a745;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+.button11:hover {
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.text21 {
+    margin-top: auto;
+    font-size: auto;
+    text-align: left;
+    font-family: lato;
+}
+
+.text2 {
+    margin-top: auto;
+    font-size: auto;
+    text-align: left;
+    font-family: Arial;
+    font-weight: bolder;
+}
+
+
+
+.button2 {
+    background-color: white;
+    border: 1px solid;
+    border-color: #28a745;
+    color: #28a745;
+    border-radius: 4px;
+    margin: auto
+}
+.button2:hover {
+    background-color: #28a745;
+    border: 1px solid;
+    border-color: none;
+    color: white;
+    border-radius: 4px;
+}
+.button22 {
+    background-color: white;
+    border: 1px solid pink;
+    color: white;
+    border-radius: 4px;
+}
+.button22:hover {
+    background-color: white;
+    background-image: url(heart-solid.svg);
+    background-position: 4px;
+    background-repeat: no-repeat;
+    border: 1px solid pink;
+    color: white;
+    border-radius: 4px;
+    text-align: left;
+}
+
+.heart {
+    width: 25px;
+}
+
+table, th, td {
+    
+    margin: 20px auto;
+    border-radius: 4px;
+    max-height: 800px;
+    max-width: 1000px;
+    border-spacing: 200px;
+}
+
+.pattern1{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.pattern2{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.pattern3{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+
+.mozaika1{
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+.mozaika2{
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+.mozaika3{
+    border: 1px solid grey;
+    border-radius: 4px;
+}
